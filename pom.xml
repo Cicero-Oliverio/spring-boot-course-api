@@ -5,8 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.jetbrains.springbootquickstart</groupId>
-    <artifactId>couseapi</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>couse-api</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>Java Brains Course API</name>
+
     <build>
         <plugins>
             <plugin>
